@@ -78,7 +78,7 @@ Checkit.i18n = {
 // The default language for all validations, defaults to "en" which
 // is included with the library by default. To add additional languages,
 // add them to the `Checkit.i18n` object.
-Checkit.language = 'en';
+Checkit.language = 'fr';
 
 // Runs validation on an individual rule & value, for convenience.
 // e.g. `Checkit.check('email', 'foo@domain', 'email').then(...`
